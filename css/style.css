@@ -1,0 +1,200 @@
+/************
+MD.SHARIAR AREFIN
+FULL STAKE WEB DEVELOPER;
+BANGLADESH;
+PHONE NO. 01780990863;
+
+
+*************/
+
+
+/*Theme Global CSS*/
+
+*{
+	font-family: 'Open Sans', sans-serif;
+    margin:0;
+    padding:0;
+
+}
+.container-fluid{
+	width:100%;
+}
+
+.container{
+	width:1170px;
+	margin:0 auto;
+}
+ul li{
+	list-style: none;
+}
+
+ .button-default{
+	text-transform: uppercase;
+	background: transparent;
+	border:1px solid #fff;
+	font-weight: 500;
+	font-size: 20px;
+	color:white;
+	padding:10px 15px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.button-default:hover{
+	background:#fff;
+	color:black;
+}
+
+
+
+/*End Global CSS*/
+
+
+
+
+
+
+
+
+
+/*Banner section*/
+.bg-image{
+	background:url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	    overflow: hidden;
+
+}
+
+header{
+	padding-top:80px;
+	margin-bottom:250px;
+}
+.logo{
+   position:relative;
+   float:left;
+}
+.menu{
+float:right;
+}
+.menu li{
+	display:inline;
+	padding-right:50px;
+	color:white;
+	text-transform: uppercase;
+	font-size: 16px; 
+}
+.call-us{
+	margin-top: 150px;
+	width:40%;
+    color:#fff;
+	
+
+}
+.call-us h1{
+		background:#2b2c2b;
+		opacity:0.8;
+        padding:10px;
+	   font-size: 40px;
+}
+.call-us p{
+	margin-top: 20px;
+	padding-bottom:60px;
+}
+
+
+
+/*	HOME PAGE 2ND SECTION  */
+.welcome{
+	background-color: #f6f6f6;
+		color:#333333;
+		overflow: hidden;
+
+}
+.description{
+		padding-top: 200px;
+padding-bottom: 100px;
+
+}
+
+
+.text{
+	width:50%;
+	position: relative;
+	float:left;
+}
+.text h1{
+	text-transform: uppercase;
+	font-size: 40px;
+
+}
+.text p{
+	margin-top:30px;
+	color:#888888;
+}
+.image{
+	width:50%;
+	float:right;
+	transform: translateY(50px);
+}
+.image img{
+width:585px;
+}
+
+/*home page 2nd section end */
+/*home page 3rd section  start*/
+
+
+.title{
+	color:white;
+	background: #28282e;
+	overflow: hidden;
+}
+.title-description{
+
+		padding-top: 200px;
+}
+
+
+.content{
+	width:50%;
+	position: relative;
+	float:left;
+}
+.content h1{
+	text-transform: uppercase;
+	font-size: 40px;
+
+}
+.content p{
+	margin-top:30px;
+	color:#888888;
+} 
+.content-image{
+	width:50%;
+	float:right;
+}
+.content-image img{
+width:585px;
+}
+/*home page 3rd section*/
+
+/*footer section*/
+
+.footer{
+	color:#fff;
+	background:#ef4035;
+}
+footer{
+	padding-top:40px;
+	padding-bottom:50px;
+	text-align: center;
+
+}
+/*footer section end*/
+
+
+
+
+
+
